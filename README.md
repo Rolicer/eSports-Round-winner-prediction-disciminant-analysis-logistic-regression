@@ -1,4 +1,4 @@
-# eSports-Round-winner-prediction-disciminant-analysis-logistic-regression
+# eSports Round winner prediction disciminant analysis logistic regression
 
 ## Overview:
 This project was part of an machine learning introduction course during my Bachelor's degree, where I tried to predict the outcome of rounds in the game Counter-Strike: Global Offensive comparing the ML-algorithms discriminant analysis against logistic regression.
