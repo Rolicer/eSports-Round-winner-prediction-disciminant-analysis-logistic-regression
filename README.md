@@ -6,12 +6,14 @@ This project was part of an machine learning introduction course during my Bache
 ## Technologies used:
 - **Data preprocessing:** Python (NumPy, Pandas, scikit-learn, Matplotlib & Seaborn)
 - **Machine Learning analysis**:  R (MASS, tidyverse, dplyr, pROC)
+- **Paper writing:** LaTeX
 
 
 ## Lessons learned:
 - Math behind ML-Algorithms 
 - Data wrangling using Python ML-Libraries
 - Application of ML-Algorithms as well as comparing them against each other using an confuction matrix & accuracy
+- How to write a scientific paper using LaTeX
 
 ## Dataset:
 For this study, I used a dataset, which was published by Skybox Esports Techonologies (https://skybox.gg/). This company uses Artificial Intelligence to collect data during matches in CSGO to provide insights and performance analysis for teams and fans. The dataset presents a collection of 700 demos (recorded games) of competitive matches in tournaments in 2019 and 2020. As mentioned before, one match in CSGO contains 16 to 30 rounds, with each round having a maximum duration of 1 minute and 55 seconds. 
