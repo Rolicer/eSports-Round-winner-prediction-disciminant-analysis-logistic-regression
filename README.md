@@ -10,7 +10,7 @@ This project was part of an machine learning introduction course during my Bache
 
 
 ## Lessons learned:
-- Math behind ML-Algorithms 
+- Theory & math behind ML-Algorithms 
 - Data wrangling using Python ML-Libraries
 - Application of ML-Algorithms as well as comparing them against each other using an confuction matrix & accuracy
 - How to write a scientific paper using LaTeX
